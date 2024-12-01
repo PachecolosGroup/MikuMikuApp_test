@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "222439154460",
+    "project_id": "mikumuki-app",
+    "storage_bucket": "mikumuki-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222439154460:android:ffa65cf8a4ee615d9650d9",
+        "android_client_info": {
+          "package_name": "com.mikumuki.fondos_pantalla"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "222439154460-gs04j5vajkkphu19tbil6fe7qu3c4c7r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mikumuki.fondos_pantalla",
+            "certificate_hash": "ba7df3adfae19a74c54e9e12adfef4bbc142ee85"
+          }
+        },
+        {
+          "client_id": "222439154460-l3bk8l8634qmskpsrp0dnpsvg3njbeua.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiSCkgM_f0SvinkqgC7FlmaLEIBk20Gds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "222439154460-l3bk8l8634qmskpsrp0dnpsvg3njbeua.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
